@@ -1,4 +1,4 @@
-package baekjoon.boj1032_commandprompt;
+package baekjoon.boj1032;
 
 import java.io.BufferedReader;
 import java.io.IOException;
