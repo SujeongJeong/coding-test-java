@@ -14,6 +14,7 @@
 
 ## 📘 Baekjoon
 
-| 번호 | 문제 이름 | 폴더 | 코드 링크 | 블로그 링크 | 문제 링크 |
-|------|-----------|-------|------------|------------|------------|
-| 1032 | 명령 프롬프트 | `boj1032_commandprompt` | [바로가기](src/baekjoon/boj1032_commandprompt/Solution.java) | [바로가기](https://cocucote.tistory.com/13) |[바로가기](https://www.acmicpc.net/problem/1032) |
+| 번호    | 문제 이름   | 폴더         | 코드 링크                                       | 블로그 링크                                  | 문제 링크                                         |
+|-------|---------|------------|---------------------------------------------|-----------------------------------------|-----------------------------------------------|
+| 1032  | 명령 프롬프트 | `boj1032`  | [바로가기](src/baekjoon/boj1032/Solution.java)  | [바로가기](https://cocucote.tistory.com/13) | [바로가기](https://www.acmicpc.net/problem/1032)  |
+| 10820 | 문자열 분석  | `boj10820` | [바로가기](src/baekjoon/boj10820/Solution.java) | [바로가기](https://cocucote.tistory.com/14) | [바로가기](https://www.acmicpc.net/problem/10820) |
