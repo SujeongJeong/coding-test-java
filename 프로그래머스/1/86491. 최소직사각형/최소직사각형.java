@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 class Solution {
     public int solution(int[][] sizes) {
@@ -12,9 +11,7 @@ class Solution {
             
             max = Math.max(max, w);
             min = Math.max(min, h);
-            System.out.println(max + " "+min);
         }
-        
         
         return max*min;
     }
